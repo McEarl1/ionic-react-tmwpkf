@@ -1,0 +1,37 @@
+.centered-title {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 1.5rem;
+}
+
+.list-header {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.ion-main {
+  text-align: center;
+}
+
+.header {
+  background-color: purple;
+}
+
+#logo {
+  margin-left: 80px;
+  height: 50%;
+  width: 40%;
+}
+
+#logo2 {
+  height: 50%;
+  width: 40%;
+}
+
+#developers {
+  --padding-start: 0;
+}
